@@ -1,12 +1,19 @@
-# Hi, I'm Sam Christian Ugmad 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20Sam%20Christian%20Ugmad%20👋&fontSize=30&fontAlignY=35" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Student+and+Learner;Exploring+Software+Development;Future+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 ### 🚀 About Me
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sgmad&label=Profile%20Views&color=red&style=flat" />
+</p>
 
 I am a student currently learning the fundamentals of software development and design. My current focus is on building a strong foundation across web, mobile, and backend technologies.
 
@@ -31,6 +38,15 @@ I am a student currently learning the fundamentals of software development and d
   <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
+
+<details>
+  <summary><b>Badges</b></summary>
+
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=python,java,php,ts,ruby,flutter,rails&theme=dark" />
+  </p>
+
+</details>
 
 ---
 
@@ -65,3 +81,6 @@ I'm always open to learning from others and exploring new projects. Feel free to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-christian-ugmad-7aaa0a253/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/smcnugmd/)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mad_magus/)
+
+```bash
+bravery without stupidity, calm without ignorance, and wisdom without hubris

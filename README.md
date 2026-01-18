@@ -48,11 +48,11 @@ I am a student currently learning the fundamentals of software development and d
 
 ### 🎵 Music Recommendations
 
-Check these out! (click with MMB to open links as a new tab):
+Check these out! (click with MMB to open links as new tab):
 
-* 🔗 [Song Link 1](https://youtu.be/VgxBTJa9IAU)
-* 🔗 [Song Link 2](https://youtu.be/cVHew8L0cjw)
-* 🔗 [Song Link 3](https://youtu.be/P0CMm9QccZg)
+* 🔗 [Dominic Fike - King of Everything](https://youtu.be/P0CMm9QccZg)
+* 🔗 [Linkin Park - Nobody Can Save Me](https://youtu.be/cVHew8L0cjw)
+* 🔗 [Paramore - Decode](https://youtu.be/VgxBTJa9IAU)
 
 ---
 
@@ -60,4 +60,10 @@ Check these out! (click with MMB to open links as a new tab):
 
 I'm always open to learning from others and exploring new projects. Feel free to check out my repositories to see what I'm currently working on!
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/smcnugmd/)
+
 [![GitHub followers](https://img.shields.io/github/followers/sgmad?style=social)](https://github.com/sgmad)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-christian-ugmad-7aaa0a253/)
+
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mad_magus/)

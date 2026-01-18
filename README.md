@@ -58,7 +58,7 @@ Check these out! (click with MMB to open links as new tab):
 
 ### 📫 Connect with me
 
-I'm always open to learning from others and exploring new projects. Feel free to check out my repositories to see what I'm currently working on!
+I'm always open to learning from others and exploring new projects. Feel free to check out my repositories to see what I'm currently working on.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samthedreamermisc@gmail.com)
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:scmad@proton.me)

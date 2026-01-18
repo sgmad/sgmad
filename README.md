@@ -60,10 +60,8 @@ Check these out! (click with MMB to open links as new tab):
 
 I'm always open to learning from others and exploring new projects. Feel free to check out my repositories to see what I'm currently working on!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/smcnugmd/)
-
-[![GitHub followers](https://img.shields.io/github/followers/sgmad?style=social)](https://github.com/sgmad)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samthedreamermisc@gmail.com)
+[![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:scmad@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-christian-ugmad-7aaa0a253/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/smcnugmd/)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mad_magus/)

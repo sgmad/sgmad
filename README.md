@@ -64,17 +64,18 @@ I am a student currently learning the fundamentals of software development and d
 
 ### 🎵 Music Recommendations
 
-Check these out! (click with MMB to open links as new tab):
+What I've been listening to (click with MMB to open links as new tab):
 
 * 🔗 [Dominic Fike - King of Everything](https://youtu.be/P0CMm9QccZg)
 * 🔗 [Linkin Park - Nobody Can Save Me](https://youtu.be/cVHew8L0cjw)
 * 🔗 [Paramore - Decode](https://youtu.be/VgxBTJa9IAU)
+* 🔗 [Linkin Park - Waiting for the End](https://youtu.be/wnO9LTmUvOk)
 
 ---
 
 ### 📫 Connect with me
 
-I'm always open to learning from others and exploring new projects. Feel free to check out my repositories to see what I'm currently working on.
+I'm always open to learning from others and exploring new things. Feel free to check out my repositories to see what I'm currently working on.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samthedreamermisc@gmail.com)
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:scmad@proton.me)

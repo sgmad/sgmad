@@ -40,7 +40,7 @@ I am a student currently learning the fundamentals of software development and d
   <summary><b>Badges</b></summary>
 
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,java,php,ts,ruby,flutter,rails&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,java,php,flutter&theme=dark" />
   </p>
 
 </details>

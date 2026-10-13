@@ -81,4 +81,4 @@ I'm always open to learning from others and exploring new things. Feel free to c
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mad_magus/)
 
 ```bash
-bravery without stupidity, calm without ignorance, and wisdom without hubris
+every stone we throw into a pond changes the shape of the shore, but some stones just have to be thrown

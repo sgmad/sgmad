@@ -17,10 +17,10 @@
 
 I am a student currently learning the fundamentals of software development and design. My current focus is on building a strong foundation across web, mobile, and backend technologies.
 
-- 📚 Currently learning **Python, Java, PHP, Ruby on Rails, and TypeScript**.
+- 📚 Currently learning **Python, Dart, and C**.
 - 📱 Exploring mobile development with **Flutter and Dart**.
 - 🎨 Using **Figma** for UI/UX design and prototyping.
-- ⚡ Interested in machine learning and computer vision.
+- ⚡ Interested in prompt engineering and AI agents.
 
 ---
 
@@ -30,12 +30,9 @@ I am a student currently learning the fundamentals of software development and d
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <br />
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
